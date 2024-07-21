@@ -2,12 +2,12 @@
 **`Back-End Developer`**
 
 ### ☕️ Langues and Tools
-<img title="Java" align="left" alt="Java" width="30px" src="![image](https://github.com/user-attachments/assets/58e9e458-dfdb-4f81-8463-dfcbbed9d928)" style="max-width: 100%;">
-<img title="Maven" align="left" alt="Maven" width="30px" src="![image](https://github.com/user-attachments/assets/f575c0c0-7b7d-442d-a6d4-9be5b240601b)" style="max-width: 100%;">
-<img title="Spring" align="left" alt="Spring" width="30px" src="![image](https://github.com/user-attachments/assets/36b36ec4-cfc6-426b-b4dd-65cf00944592)" style="max-width: 100%;">
-<img title="JavaScript" align="left" alt="JavaScript" width="30px" src="![image](https://github.com/user-attachments/assets/d0816e26-bbad-4767-86b9-517c7643ccd2)" style="max-width: 100%;">
-<img title="NodeJS" align="left" alt="NodeJS" width="30px" src="![image](https://github.com/user-attachments/assets/97b1292a-7163-4db8-ac44-ff06308467a8)" style="max-width: 100%;">
-<img title="Linux" align="left" alt="Linux" width="30px" src="![image](https://github.com/user-attachments/assets/efa823f8-6f94-4c2c-987b-2bb05682f1fe)" style="max-width: 100%;">
-<img title="AWS" align="left" alt="AWS" width="30px" src="![image](https://github.com/user-attachments/assets/25c9a0b1-2e40-4910-b421-a66bb9b535ac)" style="max-width: 100%;">
-<img title="Docker" align="left" alt="Docker" width="30px" src="![image](https://github.com/user-attachments/assets/9ef634d3-8adc-4583-8047-4b876e9643fb)" style="max-width: 100%;">
+<img title="Java" align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563938574733312/java-original.png?ex=669e5471&is=669d02f1&hm=8931ee336865c44c077271d349a1041fae5dad320509e1d1f58b8e178fd3c532&" style="max-width: 100%;">
+<img title="Maven" align="left" alt="Maven" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563936766722068/maven.png?ex=669e5470&is=669d02f0&hm=a7f596c8ae2005d372423e49f57ad2a3fa008d2922844e3a9f9450ecc6b00871&" style="max-width: 100%;">
+<img title="Spring" align="left" alt="Spring" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563936561205402/spring.png?ex=669e5470&is=669d02f0&hm=3db881cfb29a076e94c50a863a879243cc7c15d1ea18834f767c04f7feb49597&" style="max-width: 100%;">
+<img title="JavaScript" align="left" alt="JavaScript" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563937475825664/javascript.png?ex=669e5471&is=669d02f1&hm=6d83b26a3881070a2b00118c386e0b104e5cbb376cd631e44b4797f32030139a&" style="max-width: 100%;">
+<img title="NodeJS" align="left" alt="NodeJS" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563935982653555/node.png?ex=669e5470&is=669d02f0&hm=697f1e48a6a3933c206df7e63479e30482a1e11535d4af58d48a2440301eaa3a&" style="max-width: 100%;">
+<img title="Linux" align="left" alt="Linux" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563937135951925/linux.png?ex=669e5471&is=669d02f1&hm=9d8a3586f3bba3e0cbfa317f75e9a60ba0859252fd9c5475cf220d1b88331cfe&" style="max-width: 100%;">
+<img title="AWS" align="left" alt="AWS" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563938314551296/aws.png?ex=669e5471&is=669d02f1&hm=13ee7985e0028c31c32104a51dafc4952836b2a29b1c845f04c5e346588a238a&" style="max-width: 100%;">
+<img title="Docker" align="left" alt="Docker" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563937857376266/docker.png?ex=669e5471&is=669d02f1&hm=2b87cad2a8a6e1654e3828b6a4c82abb585d792b32341052ba849005670c51f0&" style="max-width: 100%;">
 <br>
