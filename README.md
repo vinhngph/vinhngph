@@ -2,7 +2,7 @@
 **`Back-End Developer`**
 
 ### ☕️ Langues and Tools
-<img title="Java" align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563938574733312/java-original.png?ex=669e5471&is=669d02f1&hm=8931ee336865c44c077271d349a1041fae5dad320509e1d1f58b8e178fd3c532&" style="max-width: 100%;">
+<img title="Java" align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="max-width: 100%;">
 <img title="Maven" align="left" alt="Maven" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563936766722068/maven.png?ex=669e5470&is=669d02f0&hm=a7f596c8ae2005d372423e49f57ad2a3fa008d2922844e3a9f9450ecc6b00871&" style="max-width: 100%;">
 <img title="Spring" align="left" alt="Spring" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563936561205402/spring.png?ex=669e5470&is=669d02f0&hm=3db881cfb29a076e94c50a863a879243cc7c15d1ea18834f767c04f7feb49597&" style="max-width: 100%;">
 <img title="JavaScript" align="left" alt="JavaScript" width="30px" src="https://cdn.discordapp.com/attachments/1128652851636351097/1264563937475825664/javascript.png?ex=669e5471&is=669d02f1&hm=6d83b26a3881070a2b00118c386e0b104e5cbb376cd631e44b4797f32030139a&" style="max-width: 100%;">
